@@ -11,7 +11,7 @@ For these you need a account on blogger.com where you can create a free blog, In
 *   Now Click On **Backup/Restore** button (Top Right).
 *   Click **Choose File** button. Find where the &#x201c;seomag-theme.xml&#x201d; file location.
 *   Now Click On** Upload** Button.
-![](img/themeinstall.png)
+![](Documentation/img/themeinstall.png)
 
 ## How to Customize Menu Navigation
 
@@ -24,7 +24,7 @@ Navigation menu will helps to make site user friendly, You can add label links, 
 *   Now Click On **Edit HTML** button
 *   Now Find  `&lt;!--Navigation Menu--&gt;` in template code using **ctrl+f**
 *   Now you will see navigation menu code, just change its text and link according to your need.
-![](img/menu-code.png)
+![](Documentation/img/menu-code.png)
 
 
 ## Add Your Feedburner username
@@ -52,7 +52,7 @@ Step by Step Guide to Setup FeedBurner for Blogger](http://blog.seobloggertempla
 
 ## How to Add Like Box
 
-![](img/fblikebox.png)
+![](Documentation/img/fblikebox.png)
 
 For adding facebook like box to blogger, go to official [Like Box Generator](https://developers.facebook.com/docs/plugins/like-box-for-pages/) and then paste your page URL and then click on **Get Code** button, Now select **iFrame** Copy given code and paste it in HTML/Javascript by adding New gadget in layout tab.
 
