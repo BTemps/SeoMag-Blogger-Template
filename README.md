@@ -10,7 +10,7 @@ For these you need a account on blogger.com where you can create a free blog, In
 *   On Blogger Dashboard click **Template**
 *   Now Click On **Backup/Restore** button (Top Right).
 *   Click **Choose File** button. Find where the &#x201c;seomag-theme.xml&#x201d; file location.
-*   Now Click On** Upload** Button.
+*   Now Click On **Upload** Button.
 ![](Documentation/img/themeinstall.png)
 
 ## How to Customize Menu Navigation
@@ -22,7 +22,7 @@ Navigation menu will helps to make site user friendly, You can add label links, 
 *   Go To Blogger **Dashboard**
 *   On Blogger Dashboard click **Template**
 *   Now Click On **Edit HTML** button
-*   Now Find  `&lt;!--Navigation Menu--&gt;` in template code using **ctrl+f**
+*   Now Find  `<!--Navigation Menu-->` in template code using **ctrl+f**
 *   Now you will see navigation menu code, just change its text and link according to your need.
 ![](Documentation/img/menu-code.png)
 
